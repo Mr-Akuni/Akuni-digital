@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Services | Akuni Digital Solutions</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Akuni Digital Solutions</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li><strong>Search Engine Optimization (SEO)</strong> - Boost your site rankings on Google and get more organic traffic.</li>
+            <li><strong>Social Media Marketing</strong> - Engage with your audience on social media and build brand awareness.</li>
+            <li><strong>Google Ads</strong> - Targeted ads to reach your ideal customers.</li>
+            <li><strong>Website Development</strong> - Build modern, responsive websites that drive conversions.</li>
+            <li><strong>Creative Designs</strong> - Eye-catching graphics and branding.</li>
+            <li><strong>Lead Generation</strong> - Generate quality leads and grow your business.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Akuni Digital Solutions. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
